@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\bin\Debug\Largest Matrix Element.exe.config
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\bin\Debug\Largest Matrix Element.exe
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\bin\Debug\Largest Matrix Element.pdb
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\obj\Debug\Largest Matrix Element.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\obj\Debug\Largest Matrix Element.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\obj\Debug\Largest Matrix Element.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\obj\Debug\Largest Matrix Element.exe
+C:\Users\Danii\source\repos\Largest Matrix Element\Largest Matrix Element\obj\Debug\Largest Matrix Element.pdb
